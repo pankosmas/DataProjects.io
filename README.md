@@ -1,4 +1,4 @@
-# This project was created for educational purposes through DataProjects.io with the instructions of my colleague and friend Michalis Chionidis.
+# This project was created for educational purposes through [DataProjects.io](https://dataprojects.io) with the instructions of my colleague and friend [Michalis Chionidis](https://www.linkedin.com/in/michail-chionidis/).
 
 # Weather API - ETL Data Pipeline on Google Cloud Platform
 
