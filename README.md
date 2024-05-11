@@ -1,6 +1,5 @@
-# This project was created for educational purposes through [DataProjects.io](https://dataprojects.io) with the instructions of my colleague and friend [Michalis Chionidis](https://www.linkedin.com/in/michail-chionidis/).
-
 # Weather API - ETL Data Pipeline on Google Cloud Platform
+This project was created for educational purposes through [DataProjects.io](https://dataprojects.io) with the instructions of my colleague and friend [Michalis Chionidis](https://www.linkedin.com/in/michail-chionidis/).
 
 ## Project Overview
 This repository showcases my implementation of an end-to-end ETL pipeline, leveraging Google Cloud Platform (GCP) to manage and analyze weather data. This project emphasizes my capabilities in using cloud technologies and data engineering practices to handle real-world data workflows effectively.
